@@ -1,0 +1,15 @@
+{
+  "name": "20230708tourist-guides-and-copyright",
+  "description": "20230708_tourist-guides-and-copyright",
+  "version": "0.0.0",
+  "author": "OGATA Katsuhiro <ogwata@gmail.com>",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest"
+  },
+  "license": "CC-BY-NC-3.0",
+  "private": true
+}
