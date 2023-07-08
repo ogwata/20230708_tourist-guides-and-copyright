@@ -1,7 +1,7 @@
 module.exports = {
   title: 'tourist-guides-and-copyright', 
   author: 'OGATA Katsuhiro <ogwata@gmail.com>',
-  theme: '.theme.css',
+  theme: 'themes/theme.css',
   entry: [
     'manuscript.md',
   ],
