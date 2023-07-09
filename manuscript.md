@@ -65,7 +65,7 @@ title: 観光ガイドと著作権
         - 著作権が消滅した著作物を公開しているWebサービス
         - 利用の際、法的には出所明示は不要だが、[明示を希望](https://www.aozora.gr.jp/guide/kijyunn.html)
     - 例：[国立国会図書館デジタルコレクション](https://dl.ndl.go.jp/ja/)
-        - 利用したい本の奥付をみて70年以上前なら、[利用上の注意](https://dl.ndl.go.jp/ja/sitepolicy)に従い利用できる（[アジア歴史資料センターも同様](https://www.jacar.go.jp/termsofuse.html)）
+        - 利用したい本の奥付をみて70年以上前なら、[利用上の注意](https://www.ndl.go.jp/jp/use/reproduction/index.html)に従い利用できる（[アジア歴史資料センターも同様](https://www.jacar.go.jp/termsofuse.html)）
 
 
 # ⑶著作者の許諾ずみ著作物を使う
