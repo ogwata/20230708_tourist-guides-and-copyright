@@ -1,7 +1,7 @@
 ---
+author: Katsuhiro Ogata
 lang: ja
 title: 観光ガイドと著作権
-author: Katsuhiro Ogata
 ---
 
 
