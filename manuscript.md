@@ -136,7 +136,12 @@ author: Katsuhiro Ogata
 - 書籍、雑誌、新聞、あるいはネットに掲載されている写真、マンガ、小説、エッセイ、評論、報道記事、学術論文等は、引用の要件を満たせばガイド資料として利用可能
 - ただし、映画・テレビ番組などの動画、またはキャラクターグッズ等をガイド資料として使うのは2次的著作物になる可能性が高く、その場合は原著作者の許諾が必要
 
+<div style="vertical-align: top;">
 
 ![](images/todays-course.png){width=100%}
 
-![Fig. uraga-canal.png](images/uraga-canal.png){width=100%}
+</div>
+
+![](images/uraga-canal.png){width=100%}
+
+![](images/electric-light-engine-house.png){width=100%}
