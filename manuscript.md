@@ -70,8 +70,8 @@ author: Katsuhiro Ogata
 # ⑶著作者の許諾ずみ著作物を使う
 
 - **21条：**著作者は、その著作物を複製する権利を専有する
-    - [例：ウィキペディア](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja)
-    - 複製権を専有する著作者自身が、自由に複製してよいと規定している
+    - 複製権を専有する著作者自身が、自由に複製できるとしているものを利用する
+        - [例：ウィキペディア](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja)
 
 
 # ⑷ 著作物を「引用」して使う
