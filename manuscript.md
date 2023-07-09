@@ -72,6 +72,7 @@ author: Katsuhiro Ogata
 - **21条：**著作者は、その著作物を複製する権利を専有する
     - 複製権を専有する著作者自身が、自由に複製できるとしているものを利用する
         - [例：ウィキペディア](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja)
+    - 利用に当たっては、著作者の定めた利用条件に従う（出所明示等）
 
 
 # ⑷ 著作物を「引用」して使う
