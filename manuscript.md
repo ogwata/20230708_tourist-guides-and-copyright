@@ -57,4 +57,8 @@ author: Katsuhiro Ogata
 
 - **51条2項：**著作権は、この節に別段の定めがある場合を除き、著作者の死後70年を経過するまでの間、存続する。
     - [例：青空文庫](https://www.aozora.gr.jp/guide/aozora_bunko_hayawakari.html)
-    
+        - 著作権が消滅した著作物を公開しているWebサービス
+        - 利用の際、法的には出所明示は不要だがマナーとして推奨
+
+
+# 
