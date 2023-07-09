@@ -61,11 +61,12 @@ title: 観光ガイドと著作権
 
 
 - **51条2項：**著作権は、この節に別段の定めがある場合を除き、著作者の死後70年を経過するまでの間、存続する。
-    - [例：青空文庫](https://www.aozora.gr.jp/)
+    - [青空文庫](https://www.aozora.gr.jp/)
         - 著作権が消滅した著作物を公開しているWebサービス
         - 利用の際、法的には出所明示は不要だが、[明示を希望](https://www.aozora.gr.jp/guide/kijyunn.html)
-    - 例：[国立国会図書館デジタルコレクション](https://dl.ndl.go.jp/ja/)
-        - 分類が[インターネット公開](https://www.ndl.go.jp/jp/use/reproduction/index.html)なら自由に利用できる（アジア歴史資料センターは[利用規約](https://www.jacar.archives.go.jp/aj/www/doc/before_browse.html)に従って自由に利用可能）
+    - [国立国会図書館デジタルコレクション](https://dl.ndl.go.jp/ja/)
+        - 分類が[インターネット公開](https://www.ndl.go.jp/jp/use/reproduction/index.html)なら自由に利用できる
+    - アジア歴史資料センター：[利用規約](https://www.jacar.archives.go.jp/aj/www/doc/before_browse.html)に従って自由に利用可能
 
 
 # ⑶著作者の許諾ずみ著作物を使う
