@@ -67,7 +67,7 @@ author: Katsuhiro Ogata
         - 利用したい本の奥付をみて70年以上前なら、[利用上の注意](https://dl.ndl.go.jp/ja/sitepolicy)に従い利用できる（[アジア歴史資料センターも同様](https://www.jacar.go.jp/termsofuse.html)）
 
 
-# ⑶著作者が許諾ずみ著作物を使う
+# ⑶著作者の許諾ずみ著作物を使う
 
 - **21条：**著作者は、その著作物を複製する権利を専有する
     - [例：ウィキペディア](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja)
