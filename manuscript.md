@@ -73,8 +73,10 @@ title: 観光ガイドと著作権
 
 - **21条：**著作者は、その著作物を複製する権利を専有する
     - 複製権を専有する著作者自身が、自由に複製できるとしているものを利用する
-        - [例：ウィキペディア](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja)
-    - 利用の際は、著作者の定めた利用条件に従う（出所明示等）
+        - 例：ウィキペディア
+            - [利用規約](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja)
+            - [Wikipedia:ウィキペディアを引用する](https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%82%92%E5%BC%95%E7%94%A8%E3%81%99%E3%82%8B)
+    - →利用の際は、著作者の定めた利用条件に従う（出所明示等）
 
 
 # ⑷ 著作物を「引用」して使う
