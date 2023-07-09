@@ -138,3 +138,5 @@ author: Katsuhiro Ogata
 
 
 ![](images/todays-course.png){width=100%}
+
+![Fig. uraga-canal.png](images/uraga-canal.png){width=100%}
