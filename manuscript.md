@@ -7,6 +7,8 @@ author: Katsuhiro Ogata
 
 # 観光ガイドと著作権{.cover}
 
+
+
 小形克宏 \
 2023年7月10日 \
 猿島公園専門ガイド協会 7月定例会
@@ -149,3 +151,4 @@ author: Katsuhiro Ogata
 ![ ](images/navy-cannon.png){width=100%}
 
 ![ ](images/asagi-madara.png){width=100%}
+
