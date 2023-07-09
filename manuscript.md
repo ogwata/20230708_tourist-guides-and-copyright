@@ -62,7 +62,7 @@ author: Katsuhiro Ogata
 - **51条2項：**著作権は、この節に別段の定めがある場合を除き、著作者の死後70年を経過するまでの間、存続する。
     - [例：青空文庫](https://www.aozora.gr.jp/guide/kijyunn.html)
         - 著作権が消滅した著作物を公開しているWebサービス
-        - 利用の際、法的には出所明示は不要だがマナーとして推奨
+        - 利用の際、法的には出所明示は不要だが、明示を希望
     - 例：[国立国会図書館デジタルコレクション](https://dl.ndl.go.jp/ja/)
         - 利用したい本の奥付をみて70年以上前なら、[利用上の注意](https://dl.ndl.go.jp/ja/sitepolicy)に従い利用できる（[アジア歴史資料センターも同様](https://www.jacar.go.jp/termsofuse.html)）
 
