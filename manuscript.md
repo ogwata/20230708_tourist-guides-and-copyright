@@ -142,11 +142,11 @@ title: 観光ガイドと著作権
 
 ![ ](images/todays-course.png){width=100%}
 
+![　](images/How-to-build-a-toilet.png){width=100%}
+
 ![ ](images/uraga-canal.png){width=100%}
 
 ![ ](images/electric-light-engine-house.png){width=100%}
-
-![　](images/How-to-build-a-toilet.png){width=100%}
 
 ![ ](images/army-cannon.png){width=100%}
 
